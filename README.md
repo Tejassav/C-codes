@@ -1,2 +1,2 @@
-# C-codes
+# C++-codes
 Code snippets and problems solved in c++
